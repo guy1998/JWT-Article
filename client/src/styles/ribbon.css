@@ -1,0 +1,15 @@
+.ribbon{
+    width: 90%;
+    background-color: #4F46E5;
+    color: white;
+    margin: 25px auto;
+    padding-left: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.ribbon h1{
+    font-size: 72pt;
+}

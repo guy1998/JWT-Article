@@ -1,0 +1,27 @@
+.lamp-img{
+    height: 650px;
+    margin-bottom: 25px;
+}
+
+.lamp-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto;
+}
+
+.lamp-button {
+    width: 500px;
+    height: 50px;
+    background-color: #4F46E5;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+
+.lamp-button:hover {
+    background-color: #807af7;
+    cursor: pointer;
+}
